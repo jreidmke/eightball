@@ -1,0 +1,12 @@
+#ball {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    border-radius: 100%;
+    color:  white;
+    text-align: center;
+}
+
+#ball-text {
+    padding-top: 100px;
+}
